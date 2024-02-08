@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "MaskeTakip.sln",
+    "projects": [
+      "Business\\Business.csproj",
+      "Entities\\Entities.csproj",
+      "Workaround\\Workaround.csproj"
+    ]
+  }
+}
